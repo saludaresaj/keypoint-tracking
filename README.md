@@ -39,6 +39,6 @@ The program processes each webcam frame in real time through the following steps
 
 ## 4. Requirements
 
-Install the required libraries with:
+To run the system, **Python 3.8** or newer is needed. Install the following dependencies using:
 ```bash
 pip install -r requirements.txt
