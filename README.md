@@ -32,8 +32,8 @@ The program processes each webcam frame in real time through the following steps
 
 ## 3. Project Files
 
-"**`app.py`:**" Main application script that runs MediaPipe Pose and launches the Gradio interface.
-**`requirements.txt`:** Python dependencies needed to run the demo.
+- **`app.py`:** Main application script that runs MediaPipe Pose and launches the Gradio interface.
+- **`requirements.txt`:** Python dependencies needed to run the demo.
 
 ---
 
